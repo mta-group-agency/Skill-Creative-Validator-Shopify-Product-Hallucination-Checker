@@ -2,7 +2,7 @@
 
 **Catch AI-hallucinated products in ad creatives before they go live.**
 
-> Free Claude Code skill by [MTA Digital](https://mta.digital) — built by Marek Ciesla (marek.ciesla@mta.digital)
+> Free Claude Code skill by [MTA Group](https://mtagroup.org) / [Force of Nature](https://forceofnature.agency) — built by Marek Ciesla
 
 ---
 
@@ -138,9 +138,9 @@ This skill is designed for [Claude Code](https://claude.ai/claude-code). Install
 
 ## Built By
 
-**[MTA Digital](https://mta.digital)** — a performance marketing agency specializing in e-commerce growth, paid advertising, and marketing automation.
+**[MTA Group](https://mtagroup.org)** / **[Force of Nature](https://forceofnature.agency)** — performance marketing agencies specializing in e-commerce growth, paid advertising, and marketing automation.
 
-**Author:** Marek Ciesla (marek.ciesla@mta.digital)
+**Author:** Marek Ciesla — [MTA Group](https://mtagroup.org) & [Force of Nature](https://forceofnature.agency)
 
 We built this skill because we kept catching AI-hallucinated products in client ad creatives during manual QA. Automating the check saves hours per campaign and prevents embarrassing (and costly) mistakes.
 
